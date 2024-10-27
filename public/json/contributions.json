@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Portal Ulbra Palmas",
+        "description": "Um site de informações da Universidade Ulbra Palmas construído com Bootstrap e PHP",
+        "image": "/portal-ulbra-palmas.png",
+        "link": "https://ulbra-to.br/"
+    },
+    {
+        "title": "Ulbra Palmas Infraestrutura",
+        "description": "Um site sobre a infraestrutura da Universidade Ulbra Palmas construído com Next.js, Bootstrap e Wordpress",
+        "image": "/infraestrutura-ulbra-palmas.png",
+        "link": "https://ulbra-to.br/infraestrutura/index.html"
+    },
+    {
+        "title": "Hospital Veterinário Ulbra Palmas",
+        "description": "Um site sobre o hospital veterinário da Universidade Ulbra Palmas construído com Next.js, Bootstrap e Wordpress",
+        "image": "/hospital-veterinario-ulbra-palmas.png",
+        "link": "https://ulbra-to.br/hospital-veterinario/"
+    },
+    {
+        "title": "Max Web V2",
+        "description": "Um sistema de gestão para empresas em sua versão web construído com Bootstrap e Angular",
+        "image": "/max-web.png",
+        "link": "http://mx.app.br/#/login?returnUrl=%2Fdashboard"
+    }
+]
