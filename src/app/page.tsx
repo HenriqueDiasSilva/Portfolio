@@ -35,7 +35,9 @@ export default function Home() {
       <main className="space-y-24 md:space-y-40">
         <section className="h-screen flex flex-col justify-center items-center px-4 text-center bg-gradient-to-br from-purple-700 to-indigo-900">
           <nav className="container mx-auto flex justify-between items-center absolute top-0 left-0 right-0 p-6">
-            <h1 className="text-xl md:text-2xl font-bold">Portifólio Henrique</h1>
+            <h1 className="text-xl md:text-2xl font-bold">
+              Portifólio Henrique
+            </h1>
             <ul className="hidden md:flex space-x-4 md:space-x-6">
               <li>
                 <a href="#projects" className="hover:text-gray-400">
@@ -59,7 +61,7 @@ export default function Home() {
               Olá, me chamo Henrique
             </h2>
             <p className="text-lg md:text-xl mb-6">
-              Sou desenvolvedor e bem-vindo ao meu portfólio
+              Sou desenvolvedor e bem-vindo ao meu portifólio
             </p>
             <a
               href="#projects"
@@ -118,7 +120,9 @@ export default function Home() {
                   className="w-full h-48 object-cover"
                 />
                 <div className="p-6">
-                  <h4 className="text-2xl font-bold mb-2">{contribution.title}</h4>
+                  <h4 className="text-2xl font-bold mb-2">
+                    {contribution.title}
+                  </h4>
                   <p className="text-gray-400">{contribution.description}</p>
                   <a
                     href={contribution.link}
@@ -144,20 +148,20 @@ export default function Home() {
           </p>
           <div className="flex justify-center space-x-6 mb-8">
             <a
-              href="https://www.linkedin.com/in/henrique-dias-silva/"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-indigo-400 hover:text-indigo-500"
-            >
-              LinkedIn
-            </a>
-            <a
               href="https://github.com/HenriqueDiasSilva"
               target="_blank"
               rel="noopener noreferrer"
               className="text-indigo-400 hover:text-indigo-500"
             >
               GitHub
+            </a>
+            <a
+              href="https://www.linkedin.com/in/henrique-dias-silva/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-indigo-400 hover:text-indigo-500"
+            >
+              LinkedIn
             </a>
           </div>
         </section>

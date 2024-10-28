@@ -1,20 +1,38 @@
 [
-  {
-      "title": "Portal Ulbra Palmas",
-      "description": "Um site de informações da Universidade Ulbra Palmas construído com Bootstrap e PHP",
-      "image": "/portal-ulbra-palmas.png",
-      "link": "https://ulbra-to.br/"
-  },
-  {
-      "title": "Ulbra Palmas Infraestrutura",
-      "description": "Um site sobre a infraestrutura da Universidade Ulbra Palmas construído com Next.js, Bootstrap e Wordpress",
-      "image": "/infraestrutura-ulbra-palmas.png",
-      "link": "https://ulbra-to.br/infraestrutura/index.html"
-  },
-  {
-      "title": "Hospital Veterinário Ulbra Palmas",
-      "description": "Um site sobre o hospital veterinário da Universidade Ulbra Palmas construído com Next.js, Bootstrap e Wordpress",
-      "image": "/hospital-veterinario-ulbra-palmas.png",
-      "link": "https://ulbra-to.br/hospital-veterinario/"
-  }
+    {
+        "title": "Pokedex",
+        "description": "Um projeto de pokedex construído com Next.js, Bootstrap e PokéAPI",
+        "image": "/img/pokedex.png",
+        "link": "https://github.com/HenriqueDiasSilva/Pokedex"
+    },
+    {
+        "title": "Full Stack Blog Headless",
+        "description": "Um projeto de blog construído com Next.js, Bootstrap e Wordpress",
+        "image": "/img/fullstack-blog-headless.png",
+        "link": "https://github.com/HenriqueDiasSilva/Fullstack-Blog-Headless"
+    },
+    {
+        "title": "Full Stack Blog",
+        "description": "Um projeto de blog construído com Next.js, Prisma, NextAuth e PostgreSQL",
+        "image": "/img/fullstack-blog.png",
+        "link": "https://github.com/HenriqueDiasSilva/Fullstack-Blog"
+    },
+    {
+        "title": "Key Signed",
+        "description": "Um projeto de assinador digital de documentos construído com Django, Bootstrap e SQLite3",
+        "image": "/img/rede-social-django.png",
+        "link": "https://github.com/HenriqueDiasSilva/KeySigned"
+    },
+    {
+        "title": "Rede Social Django",
+        "description": "Um projeto de rede social construído com Django, Bootstrap e SQLite3",
+        "image": "/img/rede-social-django.png",
+        "link": "https://github.com/HenriqueDiasSilva/Rede-Social-Django"
+    },
+    {
+        "title": "Credit Cards CRUD",
+        "description": "Um projeto de CRUD de cartões de crédito construído com Angular 16, Angular Material e Json Server",
+        "image": "/img/credit-cards-crud.png",
+        "link": "https://github.com/HenriqueDiasSilva/Credit-Cards-CRUD"
+    }
 ]
