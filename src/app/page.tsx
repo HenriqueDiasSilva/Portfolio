@@ -36,7 +36,7 @@ export default function Home() {
         <section className="h-screen flex flex-col justify-center items-center px-4 text-center bg-gradient-to-br from-purple-700 to-indigo-900">
           <nav className="container mx-auto flex justify-between items-center absolute top-0 left-0 right-0 p-6">
             <h1 className="text-xl md:text-2xl font-bold">
-              Portifólio Henrique
+              Portifólio Henrique Dias
             </h1>
             <ul className="hidden md:flex space-x-4 md:space-x-6">
               <li>
@@ -147,6 +147,13 @@ export default function Home() {
             para bater um papo!
           </p>
           <div className="flex justify-center space-x-6 mb-8">
+            <a
+              href="/pdf/curriculo-henrique.pdf"
+              download
+              className="text-indigo-400 hover:text-indigo-500"
+            >
+              Currículo
+            </a>
             <a
               href="https://github.com/HenriqueDiasSilva"
               target="_blank"
