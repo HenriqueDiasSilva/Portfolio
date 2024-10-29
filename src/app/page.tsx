@@ -36,7 +36,7 @@ export default function Home() {
         <section className="h-screen flex flex-col justify-center items-center px-4 text-center bg-gradient-to-br from-purple-700 to-indigo-900">
           <nav className="container mx-auto flex justify-between items-center absolute top-0 left-0 right-0 p-6">
             <h1 className="text-xl md:text-2xl font-bold">
-              Portifólio Henrique Dias
+              Portfólio Henrique Dias
             </h1>
             <ul className="hidden md:flex space-x-4 md:space-x-6">
               <li>
@@ -61,7 +61,7 @@ export default function Home() {
               Olá, me chamo Henrique
             </h2>
             <p className="text-lg md:text-xl mb-6">
-              Sou desenvolvedor e bem-vindo ao meu portifólio
+              Sou desenvolvedor e bem-vindo ao meu portfólio
             </p>
             <a
               href="#projects"
