@@ -14,8 +14,8 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Portifólio Henrique",
-  description: "Portfólio do Henrique com seus trabalhos e projetos",
+  title: "Portfólio Henrique",
+  description: "Portfólio de Henrique Dias com seus trabalhos e projetos",
 };
 
 export default function RootLayout({
