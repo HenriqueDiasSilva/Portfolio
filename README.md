@@ -1,7 +1,7 @@
-<h1 align="center"> Portifólio </h1>
+<h1 align="center"> Portfólio </h1>
 
 <p align="center">
-Portifólio is a website dedicated to showcasing all the projects Henrique has worked on and contributed to as a developer, highlighting his skills and contributions in each one. <br/>
+Portfólio is a website dedicated to showcasing all the projects Henrique has worked on and contributed to as a developer, highlighting his skills and contributions in each one. <br/>
 </p>
 
 <p align="center">
@@ -23,7 +23,9 @@ This project was developed with the following technologies:
 - TypeScript
 
 ## 💻 Project
-![image](https://github.com/user-attachments/assets/31c27fba-8ddc-4ce3-a515-c380ee20eb99)
+
+![image](https://github.com/user-attachments/assets/99824e85-eebd-4a7c-8ce0-ecda7348f63a)
+
 ## 🖊️ License
 
 This project is licensed under the MIT license
