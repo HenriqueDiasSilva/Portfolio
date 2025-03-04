@@ -124,14 +124,18 @@ export default function Home() {
                     {contribution.title}
                   </h4>
                   <p className="text-gray-400">{contribution.description}</p>
-                  <a
-                    href={contribution.link}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="text-indigo-400 hover:text-indigo-500 mt-4 inline-block"
-                  >
-                    Ver Site
-                  </a>
+                  {
+                    contribution.link && (
+                      <a
+                        href={contribution.link}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="text-indigo-400 hover:text-indigo-500 mt-4 inline-block"
+                      >
+                        Ver Site
+                      </a>
+                    )
+                  }
                 </div>
               </div>
             ))}
@@ -163,7 +167,7 @@ export default function Home() {
               GitHub
             </a>
             <a
-              href="https://www.linkedin.com/in/henrique-dias-silva/"
+              href="https://www.linkedin.com/in/henriquediassilva/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-indigo-400 hover:text-indigo-500"

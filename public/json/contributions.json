@@ -1,26 +1,47 @@
 [
     {
         "title": "Portal Ulbra Palmas",
-        "description": "Um site de informações da Universidade Ulbra Palmas construído com Bootstrap e PHP",
+        "description": "Site de informações da Universidade Ulbra Palmas construído com PHP e Bootstrap.",
         "image": "/img/portal-ulbra-palmas.png",
         "link": "https://ulbra-to.br/"
     },
     {
         "title": "Ulbra Palmas Infraestrutura",
-        "description": "Um site sobre a infraestrutura da Universidade Ulbra Palmas construído com Next.js, Bootstrap e Wordpress",
+        "description": "Site sobre a infraestrutura da Universidade Ulbra Palmas construído com Next.js, Bootstrap e Wordpress.",
         "image": "/img/infraestrutura-ulbra-palmas.png",
         "link": "https://ulbra-to.br/infraestrutura/index.html"
     },
     {
         "title": "Hospital Veterinário Ulbra Palmas",
-        "description": "Um site sobre o hospital veterinário da Universidade Ulbra Palmas construído com Next.js, Bootstrap e Wordpress",
+        "description": "Site sobre o hospital veterinário da Universidade Ulbra Palmas construído com Next.js, Bootstrap e Wordpress.",
         "image": "/img/hospital-veterinario-ulbra-palmas.png",
         "link": "https://ulbra-to.br/hospital-veterinario/"
     },
     {
         "title": "Max Web V2",
-        "description": "Um sistema de gestão para empresas em sua versão web construído com Angular e Bootstrap",
+        "description": "Sistema de gestão para empresas em sua versão web construído com Angular e Bootstrap.",
         "image": "/img/max-web.png",
         "link": "http://mx.app.br/#/login?returnUrl=%2Fdashboard"
+    },
+    {
+        "title": "Max App Interno",
+        "description": "Um aplicativo para gestão interna da Max Data construído com React Native CLI.",
+        "image": "/img/restrito.png"
+    },
+    {
+        "title": "Bottega Telecomunicações",
+        "description": "Site de apresentação dos serviços de telecomunicações da Bottega construído com Wordpress.",
+        "image": "/img/bottega-telecomunicacoes.png",
+        "link": "https://www.bottegatelecom.com.br/"
+    },
+    {
+        "title": "SondaFacil",
+        "description": "Plataforma de marketplace para o setor de prospecção geotécnica construída com Next.js, Supabase e Bootstrap.",
+        "image": "/img/sonda-facil.png"
+    },
+    {
+        "title": "Sigplus Partners",
+        "description": "Plataforma que conecta fornecedores de equipamentos e empresários do setor geotécnico construída com Next.js, Supabase e Bootstrap.",
+        "image": "/img/sigplus-partners.png"
     }
 ]

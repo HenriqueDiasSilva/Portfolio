@@ -1,37 +1,37 @@
 [
     {
         "title": "Pokedex",
-        "description": "Um projeto de pokedex construído com Next.js, Bootstrap e PokéAPI",
+        "description": "Projeto de pokedex construído com Next.js, Bootstrap e PokéAPI",
         "image": "/img/pokedex.png",
         "link": "https://github.com/HenriqueDiasSilva/Pokedex"
     },
     {
         "title": "Full Stack Blog Headless",
-        "description": "Um projeto de blog construído com Next.js, Bootstrap e Wordpress",
+        "description": "Projeto de blog construído com Next.js, Bootstrap e Wordpress.",
         "image": "/img/fullstack-blog-headless.png",
         "link": "https://github.com/HenriqueDiasSilva/Fullstack-Blog-Headless"
     },
     {
         "title": "Full Stack Blog",
-        "description": "Um projeto de blog construído com Next.js, Prisma, NextAuth e PostgreSQL",
+        "description": "Projeto de blog construído com Next.js, Prisma, NextAuth e PostgreSQL.",
         "image": "/img/fullstack-blog.png",
         "link": "https://github.com/HenriqueDiasSilva/Fullstack-Blog"
     },
     {
         "title": "Key Signed",
-        "description": "Um projeto de assinador digital de documentos construído com Django, Bootstrap e SQLite3",
+        "description": "Projeto de assinador digital de documentos construído com Django, Bootstrap e SQLite3.",
         "image": "/img/rede-social-django.png",
         "link": "https://github.com/HenriqueDiasSilva/KeySigned"
     },
     {
         "title": "Rede Social Django",
-        "description": "Um projeto de rede social construído com Django, Bootstrap e SQLite3",
+        "description": "Projeto de rede social construído com Django, Bootstrap e SQLite3.",
         "image": "/img/rede-social-django.png",
         "link": "https://github.com/HenriqueDiasSilva/Rede-Social-Django"
     },
     {
         "title": "Credit Cards CRUD",
-        "description": "Um projeto de CRUD de cartões de crédito construído com Angular 16, Angular Material e Json Server",
+        "description": "Projeto de CRUD de cartões de crédito construído com Angular 16, Angular Material e Json Server.",
         "image": "/img/credit-cards-crud.png",
         "link": "https://github.com/HenriqueDiasSilva/Credit-Cards-CRUD"
     }
